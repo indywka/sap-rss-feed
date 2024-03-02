@@ -3,6 +3,4 @@
 
 Just join the telegram channel ["SAP RSS Feeds"](https://t.me/sapfeeds) to get the latest updates on SAP development!
 
-The RSS feeds that the channel is subscribed to are listed in this **[Google Sheet - RSS Feeds](https://docs.google.com/spreadsheets/d/1tkbil1VcysRJKN-l1g6OpY3C_FahImzt7nFIHUx-9As/edit#gid=448724122)** and the sap-rss-feed.json file.
-
-You can also find useful links in this **[Google Sheet - Useful links](https://docs.google.com/spreadsheets/d/1tkbil1VcysRJKN-l1g6OpY3C_FahImzt7nFIHUx-9As/edit#gid=2011535277)**.
+The RSS feeds that the channel is subscribed to are listed in this **[Google Sheet - RSS Feeds](https://docs.google.com/spreadsheets/d/1tkbil1VcysRJKN-l1g6OpY3C_FahImzt7nFIHUx-9As/edit#gid=448724122)** and the sap-rss-feed.json file. You can also find useful links in this **[Google Sheet - Useful links](https://docs.google.com/spreadsheets/d/1tkbil1VcysRJKN-l1g6OpY3C_FahImzt7nFIHUx-9As/edit#gid=2011535277)**.
