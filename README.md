@@ -2,7 +2,7 @@
 <img align="right" src="https://github.com/indywka/sap-rss-feed/assets/16324200/4a1e19c6-efdb-4e6f-91e6-43406bbecaf0" alt="drawing" width="375"/>
 <!---/<img align="right" src="https://github.com/indywka/sap-rss-feed/assets/16324200/69c0179f-9453-41c6-aaa0-b5bdbd674e84" alt="drawing" width="375"/>-->
 
-Welcome to yourSAP RSS Feeds, your one-stop destination for all things SAP development!
+Welcome to SAP RSS Feeds, your one-stop destination for all things SAP development!
 
 **[SAP RSS Feeds](https://t.me/sapfeeds)** is a telegram channel that brings you the freshest and most relevant content from various sources of SAP development, such as blogs, forums, podcasts, webinars, and more.
 
