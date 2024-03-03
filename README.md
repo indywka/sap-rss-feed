@@ -1,10 +1,12 @@
 # sap-rss-feeds
+> :warning: **[DISCLAIMER](DISCLAIMER.md)** of liability for the use of SAP trademarks...
+
 <img align="right" src="https://github.com/indywka/sap-rss-feed/assets/16324200/4a1e19c6-efdb-4e6f-91e6-43406bbecaf0" alt="drawing" width="375"/>
 <!---/<img align="right" src="https://github.com/indywka/sap-rss-feed/assets/16324200/69c0179f-9453-41c6-aaa0-b5bdbd674e84" alt="drawing" width="375"/>-->
 
 Welcome to SAP RSS Feeds, your one-stop destination for all things SAP development!
 
-**[SAP RSS Feeds](https://t.me/sapfeeds)** is a telegram channel that brings you the freshest and most relevant content from various sources of SAP development, such as blogs, forums, podcasts, webinars, and more.
+**[SAP RSS Feeds](https://t.me/sapfeeds)** is a personal and unofficial telegram channel that brings you the freshest and most relevant content from various sources of SAP development, such as blogs, forums, podcasts, webinars, and more.
 
 You can access the full list of RSS feeds that the channel follows in the:\
 • **[Google Sheet - RSS Feeds](https://docs.google.com/spreadsheets/d/1tkbil1VcysRJKN-l1g6OpY3C_FahImzt7nFIHUx-9As/edit#gid=448724122)**\
