@@ -1,0 +1,10 @@
+# dotenv
+.env
+
+# virtualenv
+.venv
+venv/
+ENV/
+
+# users
+sap-rss-feed-c67865562590.json
