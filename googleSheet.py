@@ -17,5 +17,5 @@ def get_service_sacc():
 
 def get_data():
     resp = get_service_sacc().spreadsheets().values().get(spreadsheetId=SHEET_ID,
-                                                          range="Useful links!A1:N999").execute()
+                                                          range="RSS Feeds!A1:M999").execute()
     return resp
