@@ -8,7 +8,7 @@ Welcome to SAP RSS Feeds, your one-stop destination for all things SAP developme
 You can access the full list of RSS feeds that the channel follows in the:\
 • **[Google Sheet - RSS Feeds](https://docs.google.com/spreadsheets/d/1tkbil1VcysRJKN-l1g6OpY3C_FahImzt7nFIHUx-9As/edit#gid=448724122)**\
 • **[On GitHub in the sap-rss-feed.json file](https://github.com/indywka/sap-rss-feed/blob/main/sap_rss_feed.json)** (There you can also suggest new sources or topics to be added to the channel).\
-• Additionally, you can find useful links in this **[Google Sheet - Useful links](https://docs.google.com/spreadsheets/d/1tkbil1VcysRJKN-l1g6OpY3C_FahImzt7nFIHUx-9As/edit#gid=2011535277)**.\
+• In addition, you can view this sheet **[Google Sheet - Useful links](https://docs.google.com/spreadsheets/d/1tkbil1VcysRJKN-l1g6OpY3C_FahImzt7nFIHUx-9As/edit#gid=2011535277)**.\
 All these resources will be updated and supplemented.
 
 SAP RSS Feeds updates its posts every **`2 hours`** for telegram channels and most GitHub repositories. And about every **`5 minutes`** for the rest of the RSS feeds. The actual RSS feeds list is pinned and updated regularly, so you never miss out on any important news or updates.
