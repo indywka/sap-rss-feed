@@ -16,6 +16,8 @@ All these resources will be updated and supplemented.
 
 SAP RSS Feeds updates its posts every **`2 hours`** for telegram channels and most GitHub repositories. And about every **`5 minutes`** for the rest of the RSS feeds. The actual RSS feeds list is pinned and updated regularly, so you never miss out on any important news or updates.
 
+If you want to add a new or delete an existing RSS feed resource — **[create an issue](https://github.com/indywka/sap-rss-feed/issues)** on GitHub. Let's figure it out together.
+
 SAP RSS Feeds is the perfect channel for SAP developers who want to stay on top of the latest trends, technologies, and best practices in SAP development. Join SAP RSS Feeds today and enjoy the benefits of being part of a vibrant and diverse SAP developer community!
 
 Links to my profiles [<img width="24" height="24" src="https://img.icons8.com/fluency/48/telegram-app.png" alt="telegram-app"/>](https://t.me/eduardminchyk "Telegram") [<img width="24" height="24" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>](https://www.linkedin.com/in/eduardminchyk/ "LinkedIn") [<img width="24" height="24" src="https://img.icons8.com/color/48/sap.png" alt="sap"/>](https://community.sap.com/t5/user/viewprofilepage/user-id/649881 "SAP") [<img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/24/228BE6/external-github-with-cat-logo-an-online-community-for-software-development-logo-bold-tal-revivo.png" alt="external-github-with-cat-logo-an-online-community-for-software-development-logo-bold-tal-revivo"/>](https://github.com/indywka "Github")
