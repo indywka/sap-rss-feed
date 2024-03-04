@@ -1675,5 +1675,83 @@
     "Date added": "09.01.2024",
     "Retired": "FALSE",
     "Official SAP": "FALSE"
+  },
+  {
+    "NumKeyTG": "130",
+    "RSS feed link": "https://medium.com/feed/@fuscellaarthur",
+    "NumKey (LINKS)": "257",
+    "Name": "Arthur Silva Blog",
+    "Resource type": "Medium",
+    "Link": "https://medium.com/@fuscellaarthur",
+    "Description": "about SAP and IT",
+    "Language": "EN",
+    "Date added": "04.03.2024",
+    "Retired": "FALSE",
+    "Official SAP": "FALSE"
+  },
+  {
+    "NumKeyTG": "131",
+    "RSS feed link": "https://github.com/PacktPublishing/Mastering-SAP-ABAP/commits.atom",
+    "NumKey (LINKS)": "261",
+    "Name": "PacktPublishing / Mastering-SAP-ABAP",
+    "Resource type": "GitHub",
+    "Link": "https://github.com/PacktPublishing/Mastering-SAP-ABAP",
+    "Description": "Mastering SAP ABAP, published by Packt",
+    "Language": "EN",
+    "Date added": "04.03.2024",
+    "Retired": "FALSE",
+    "Official SAP": "FALSE"
+  },
+  {
+    "NumKeyTG": "132",
+    "RSS feed link": "https://rsshub.app/github/repos/raketenstart-abap",
+    "NumKey (LINKS)": "262",
+    "Name": "raketenstart-abap",
+    "Resource type": "GitHub",
+    "Link": "https://github.com/raketenstart-abap/abap-mail",
+    "Description": "raketenstart-abap",
+    "Language": "EN",
+    "Date added": "04.03.2024",
+    "Retired": "FALSE",
+    "Official SAP": "FALSE"
+  },
+  {
+    "NumKeyTG": "133",
+    "RSS feed link": "https://github.com/alwinvandeput/zscv_search_cds_views/commits.atom",
+    "NumKey (LINKS)": "265",
+    "Name": "alwinvandeput / zscv_search_cds_views",
+    "Resource type": "GitHub",
+    "Link": "https://github.com/alwinvandeput/zscv_search_cds_views",
+    "Description": "ABAP Search CDS Views Tool",
+    "Language": "EN",
+    "Date added": "04.03.2024",
+    "Retired": "FALSE",
+    "Official SAP": "FALSE"
+  },
+  {
+    "NumKeyTG": "134",
+    "RSS feed link": "https://rsshub.app/github/repos/ajmaradiaga",
+    "NumKey (LINKS)": "267",
+    "Name": "ajmaradiaga / feeds",
+    "Resource type": "GitHub",
+    "Link": "https://github.com/ajmaradiaga/feeds",
+    "Description": "A collection of generated RSS feeds.",
+    "Language": "EN",
+    "Date added": "04.03.2024",
+    "Retired": "FALSE",
+    "Official SAP": "FALSE"
+  },
+  {
+    "NumKeyTG": "135",
+    "RSS feed link": "https://github.com/dotabap/dotabap-list/commits.atom",
+    "NumKey (LINKS)": "266",
+    "Name": "dotabap / dotabap-list",
+    "Resource type": "GitHub",
+    "Link": "https://github.com/dotabap/dotabap-list",
+    "Description": "ABAP Open Source List, https://dotabap.org",
+    "Language": "EN",
+    "Date added": "04.03.2024",
+    "Retired": "FALSE",
+    "Official SAP": "FALSE"
   }
 ]
