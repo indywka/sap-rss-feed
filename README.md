@@ -11,12 +11,11 @@ Welcome to SAP RSS Feeds, your one-stop destination for all things SAP developme
 You can access the full list of RSS feeds that the channel follows:\
 • In the Google Sheet - **[RSS Feeds](https://docs.google.com/spreadsheets/d/1tkbil1VcysRJKN-l1g6OpY3C_FahImzt7nFIHUx-9As/edit#gid=448724122)**\
 • On GitHub in files of the following formats **[JSON](https://github.com/indywka/sap-rss-feed/blob/main/rss-feed-data.json)** and **[YAML](https://github.com/indywka/sap-rss-feed/blob/main/rss-feed-data.yaml)**\
-• In addition, you can view this sheet Google Sheet - **[Useful links](https://docs.google.com/spreadsheets/d/1tkbil1VcysRJKN-l1g6OpY3C_FahImzt7nFIHUx-9As/edit#gid=2011535277)**.\
-All these resources will be updated and supplemented.
+• In addition, you can view this sheet Google Sheet - **[Useful links](https://docs.google.com/spreadsheets/d/1tkbil1VcysRJKN-l1g6OpY3C_FahImzt7nFIHUx-9As/edit#gid=2011535277)**.
 
-SAP RSS Feeds updates its posts every **`2 hours`** for telegram channels and most GitHub repositories. And about every **`5 minutes`** for the rest of the RSS feeds. The actual RSS feeds list is pinned and updated regularly, so you never miss out on any important news or updates.
+The actual list of RSS feeds and the content of all the above-mentioned resources are updated regularly, so you never miss out on any important news or updates. As for updating posts in the channel, SAP RSS Feeds updates its posts every **`2 hours`** for telegram channels and most GitHub repositories. And about every **`5 minutes`** for the rest of the RSS feeds.
 
-If you want to add a new or delete an existing RSS feed resource — **[create an issue](https://github.com/indywka/sap-rss-feed/issues)** on GitHub. Let's figure it out together.
+If you want to add a new or delete an existing RSS feed resource — **[create an issue](https://github.com/indywka/sap-rss-feed/issues)** on GitHub or **[send a Google Form](https://docs.google.com/forms/d/e/1FAIpQLScdqlH-gdj-fIDOGdM0vBdMYIxZkltgGAiWxifcmvtEGZ9tbA/viewform?usp=sf_link)**. Let's figure it out together.
 
 SAP RSS Feeds is the perfect channel for SAP developers who want to stay on top of the latest trends, technologies, and best practices in SAP development. Join SAP RSS Feeds today and enjoy the benefits of being part of a vibrant and diverse SAP developer community!
 
